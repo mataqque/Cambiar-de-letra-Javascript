@@ -1,3 +1,6 @@
+function llamar(){
+alert("esto si esta conectado");
+}
 var Z = {
     chars: {
         0 : [ /* up */
